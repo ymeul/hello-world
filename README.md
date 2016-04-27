@@ -1,2 +1,3 @@
 # hello-world
 hello-world first test
+Here I gonna write a bit about myself, my namen etc...
